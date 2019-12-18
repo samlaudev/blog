@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 实时显示iOS编写UI代码效果
-date: 2015-04-23 15:53:00
+date: 2015-04-23 
 tags: iOS
 ---
 
