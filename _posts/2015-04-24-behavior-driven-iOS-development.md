@@ -883,24 +883,24 @@ self.loginButton.rac_command = self.viewModel.loginButtonCommand;
 
 # 扩展阅读
 
-*  **ReactiveCocoa**
-   [ReactiveCocoa - iOS开发的新框架](http://www.infoq.com/cn/articles/reactivecocoa-ios-new-develop-framework)
-   [ReactiveCocoa2实战](http://limboy.me/ios/2014/06/06/deep-into-reactivecocoa2.html)
-   [ReactiveCocoa Essentials: Understanding and Using RACCommand](http://codeblog.shape.dk/blog/2013/12/05/reactivecocoa-essentials-understanding-and-using-raccommand/)
-   [Test with Reactivecocoa](http://chaoruan.me/test-with-reactivecocoa/)
-*  **Kiwi**
-   [TDD的iOS开发初步以及Kiwi使用入门](http://onevcat.com/2014/02/ios-test-with-kiwi/)
-   [Kiwi 使用进阶 Mock, Stub, 参数捕获和异步测试](http://onevcat.com/2014/05/kiwi-mock-stub-test/)
-*  **RESTful API**
-   [理解RESTful架构](http://www.ruanyifeng.com/blog/2011/09/restful.html)
-   [RESTful API 设计指南](http://www.ruanyifeng.com/blog/2014/05/restful_api.html)
-   [理解OAuth 2.0](http://www.ruanyifeng.com/blog/2014/05/oauth_2_0.html)
-   [SSL/TLS协议运行机制的概述](http://www.ruanyifeng.com/blog/2014/02/ssl_tls.html)
-*  **Moco**
-   [Moco能集成测试，还能移动开发；能前端开发，还能模拟Web服务器！](http://mp.weixin.qq.com/s?__biz=MjM5MjY3OTgwMA==&mid=203752863&idx=1&sn=57fd563d7218a6d11d2c77b3cb4f5020#rd)
-*  **测试**
-   [行为驱动开发](http://objccn.io/issue-15-1/)
-   [XCTest 测试实战](http://objccn.io/issue-15-2/)
-   [依赖注入](http://objccn.io/issue-15-3/)
-   [糟糕的测试](http://objccn.io/issue-15-4/)
-   [置换测试: Mock, Stub 和其他](
+*  **ReactiveCocoa**  
+   [ReactiveCocoa - iOS开发的新框架](http://www.infoq.com/cn/articles/reactivecocoa-ios-new-develop-framework)  
+   [ReactiveCocoa2实战](http://limboy.me/ios/2014/06/06/deep-into-reactivecocoa2.html)  
+   [ReactiveCocoa Essentials: Understanding and Using RACCommand](http://codeblog.shape.dk/blog/2013/12/05/reactivecocoa-essentials-understanding-and-using-raccommand/)  
+   [Test with Reactivecocoa](http://chaoruan.me/test-with-reactivecocoa/)  
+*  **Kiwi**  
+   [TDD的iOS开发初步以及Kiwi使用入门](http://onevcat.com/2014/02/ios-test-with-kiwi/)  
+   [Kiwi 使用进阶 Mock, Stub, 参数捕获和异步测试](http://onevcat.com/2014/05/kiwi-mock-stub-test/)  
+*  **RESTful API**  
+   [理解RESTful架构](http://www.ruanyifeng.com/blog/2011/09/restful.html)  
+   [RESTful API 设计指南](http://www.ruanyifeng.com/blog/2014/05/restful_api.html)  
+   [理解OAuth 2.0](http://www.ruanyifeng.com/blog/2014/05/oauth_2_0.html)  
+   [SSL/TLS协议运行机制的概述](http://www.ruanyifeng.com/blog/2014/02/ssl_tls.html)  
+*  **Moco**  
+   [Moco能集成测试，还能移动开发；能前端开发，还能模拟Web服务器！](http://mp.weixin.qq.com/s?__biz=MjM5MjY3OTgwMA==&mid=203752863&idx=1&sn=57fd563d7218a6d11d2c77b3cb4f5020#rd)  
+*  **测试**  
+   [行为驱动开发](http://objccn.io/issue-15-1/)  
+   [XCTest 测试实战](http://objccn.io/issue-15-2/)  
+   [依赖注入](http://objccn.io/issue-15-3/)  
+   [糟糕的测试](http://objccn.io/issue-15-4/)  
+   [置换测试: Mock, Stub 和其他](http://objccn.io/issue-15-5/)  

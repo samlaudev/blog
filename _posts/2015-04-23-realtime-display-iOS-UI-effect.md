@@ -705,21 +705,21 @@ UIView.blueBox {
 
 # 扩展阅读
 
-* **Storyboard/XIB与手写代码的选择**
-  [代码手写UI，xib和StoryBoard间的博弈，以及Interface Builder的一些小技巧](http://onevcat.com/2013/12/code-vs-xib-vs-storyboard/)
-  [iOS 开发中的争议（二）](http://blog.devtang.com/blog/2015/03/22/ios-dev-controversy-2/)
+* **Storyboard/XIB与手写代码的选择**  
+  [代码手写UI，xib和StoryBoard间的博弈，以及Interface Builder的一些小技巧](http://onevcat.com/2013/12/code-vs-xib-vs-storyboard/)  
+  [iOS 开发中的争议（二）](http://blog.devtang.com/blog/2015/03/22/ios-dev-controversy-2/)  
 
-* **Storyboard可视化开发**
-  [Adaptive Layout Tutorial: Getting Started](http://www.raywenderlich.com/83276/beginning-adaptive-layout-tutorial)
-  [WWDC 2014 Session笔记 - 可视化开发，IB 的新时代](http://onevcat.com/2014/10/ib-customize-view/)
+* **Storyboard可视化开发**  
+  [Adaptive Layout Tutorial: Getting Started](http://www.raywenderlich.com/83276/beginning-adaptive-layout-tutorial)  
+  [WWDC 2014 Session笔记 - 可视化开发，IB 的新时代](http://onevcat.com/2014/10/ib-customize-view/)  
 
-* **AutoLayout与Masonry**
-  [iOS 开发实践之 Auto Layout](http://xuexuefeng.com/autolayout/)
-  [深入理解Auto Layout 第一弹](http://zhangbuhuai.com/2015/07/16/beginning-auto-layout-part-1/)
-  [Masonry介绍与使用实践](http://adad184.com/2014/09/28/use-masonry-to-quick-solve-autolayout/)
+* **AutoLayout与Masonry**  
+  [iOS 开发实践之 Auto Layout](http://xuexuefeng.com/autolayout/)  
+  [深入理解Auto Layout 第一弹](http://zhangbuhuai.com/2015/07/16/beginning-auto-layout-part-1/)  
+  [Masonry介绍与使用实践](http://adad184.com/2014/09/28/use-masonry-to-quick-solve-autolayout/)  
 
-* **Auto Layout WWDC 视频集合**
-  [WWDC 2012: Introduction to Auto Layout for iOS and OS X](https://developer.apple.com/videos/wwdc/2012/?id=202)
-  [WWDC 2012: Best Practices for Mastering Auto Layout](https://developer.apple.com/videos/wwdc/2012/?id=228)
-  [WWDC 2012: Auto Layout by Example](https://developer.apple.com/videos/wwdc/2012/?id=232)
-  [WWDC 2013: Taking Control of Auto Layout in Xcode 5](https://developer.apple.com/videos/wwdc/2013/?id=406)
+* **Auto Layout WWDC 视频集合**  
+  [WWDC 2012: Introduction to Auto Layout for iOS and OS X](https://developer.apple.com/videos/wwdc/2012/?id=202)  
+  [WWDC 2012: Best Practices for Mastering Auto Layout](https://developer.apple.com/videos/wwdc/2012/?id=228)  
+  [WWDC 2012: Auto Layout by Example](https://developer.apple.com/videos/wwdc/2012/?id=232)  
+  [WWDC 2013: Taking Control of Auto Layout in Xcode 5](https://developer.apple.com/videos/wwdc/2013/?id=406)  
