@@ -77,11 +77,9 @@ echo $PATH
    ![append variable value.png](/assets/images/2015/166109-edb825a03671d3f3.png)
 
 7. 如果变量需要在其他子进程使用，用`export`关键字来设置变量为环境变量
-
 ```
 export VARIABLE
 ```
-
 8. 系统环境变量一般都是**字母全部大写**，例如：`PATH`，`HOME`，`SHELL`等
 
 9. 如果想取消设置变量的值，使用`unset variable`命令。注意，变量之前是没有符号`$`
@@ -192,6 +190,7 @@ export VARIABLE
 * xargs
 
 ## 扩展阅读
+
 
 * [鸟哥的Linux私房菜-基础学习篇](http://book.douban.com/subject/4889838/)  
 * [Unix Pipes 管道原稿](http://coolshell.cn/articles/1351.html)  
